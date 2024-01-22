@@ -1,0 +1,11 @@
+#== Binaries and Objects ==#
+bin
+obj
+
+#== Nix ==#
+.envrc
+.direnv
+
+#== Clangd #=#
+.cache
+compile_commands.json
